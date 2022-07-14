@@ -53,3 +53,11 @@ f. HTTP Proxy: local host - Port: 3000 (Remember that the port number must be th
 ------------
 
 <br>
+
+## Colaborators
+
+|Photo | Name  | Mail | Github
+| :-----: | :-----: | :-----: | :-----: |
+<img src="https://avatars.githubusercontent.com/u/101294825?v=4" height="50" width="50">| María Higinia Médica | higiniamc@gmail.com | [@HiginiaMed](https://github.com/HiginiaMed)
+<img src="https://avatars.githubusercontent.com/u/101281359?v=4" height="50" width="50">| Matías Daniel Vadala | vadalamati@gmail.com | [@vadalamati](https://github.com/vadalamati)
+<img src="https://avatars.githubusercontent.com/u/101268743?v=4" height="50" width="50">| Tobías Pujol | tobipujol@gmail.com | [@tobiaspujol](https://github.com/tobiaspujol)
